@@ -1,0 +1,6 @@
+vegetables:
+	potato
+	tomamto
+	cabbage
+	cauliflower
+	carrot
